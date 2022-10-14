@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@300;400;500&display=swap');
+
+/*font-family: 'Lobster', cursive;
+font-family: 'Roboto', sans-serif;*/
+
+body {
+    display:flex; flex-direction:column; justify-content:center;
+    min-height:100vh;
+    font-family: 'Roboto', sans-serif;
+    font-weight:500;
+    max-width: max-content;
+    margin: auto;
+}
+
+button{
+
+
+    border-radius: 8px;
+    background-color: white;
+    border: solid 1px black;
+    padding: 9px 18px;
+    width:10em;
+}
+
+p{
+}
+
